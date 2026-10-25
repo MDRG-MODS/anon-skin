@@ -1,0 +1,122 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 9 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "MCHandHolding",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 429,
+                        "height": 392
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCForearmHandholding",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 407,
+                        "width": 332,
+                        "height": 491
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCForearmHandholding2",
+                    "RectInt": {
+                        "x": 347,
+                        "y": 407,
+                        "width": 332,
+                        "height": 491
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCHand",
+                    "RectInt": {
+                        "x": 689,
+                        "y": 407,
+                        "width": 211,
+                        "height": 415
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCHand2",
+                    "RectInt": {
+                        "x": 910,
+                        "y": 407,
+                        "width": 211,
+                        "height": 415
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCHandFaceRubBack",
+                    "RectInt": {
+                        "x": 444,
+                        "y": 5,
+                        "width": 375,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCHandFaceRubFront",
+                    "RectInt": {
+                        "x": 829,
+                        "y": 5,
+                        "width": 299,
+                        "height": 228
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCRightHandFondle",
+                    "RectInt": {
+                        "x": 689,
+                        "y": 832,
+                        "width": 196,
+                        "height": 237
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCLeftHandFondle",
+                    "RectInt": {
+                        "x": 895,
+                        "y": 832,
+                        "width": 190,
+                        "height": 237
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

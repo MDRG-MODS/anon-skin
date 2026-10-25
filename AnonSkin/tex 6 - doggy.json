@@ -1,0 +1,74 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 6 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "MCHandGrabButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 205,
+                        "height": 164
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "DickSkin",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 179,
+                        "width": 184,
+                        "height": 142
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCHandHeadGrab",
+                    "RectInt": {
+                        "x": 199,
+                        "y": 179,
+                        "width": 191,
+                        "height": 98
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCHandBoobs",
+                    "RectInt": {
+                        "x": 220,
+                        "y": 5,
+                        "width": 169,
+                        "height": 100
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "DickMain",
+                    "RectInt": {
+                        "x": 199,
+                        "y": 287,
+                        "width": 104,
+                        "height": 84
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

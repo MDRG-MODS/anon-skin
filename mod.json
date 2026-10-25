@@ -1,0 +1,18 @@
+{
+    "name": "AnonSkin",
+    "description": "McSkin plus the shower scenes",
+    "modVersion": "1.0.2",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.97.11",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639264362438360210,
+        "guid": {
+            "serializedGuid": "6b9ca07e-72d9-49da-9e6c-bf359d72c642"
+        }
+    }
+}
