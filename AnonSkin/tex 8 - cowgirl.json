@@ -1,0 +1,122 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 8 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "MCRubClit",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 372,
+                        "height": 456
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCFinger",
+                    "RectInt": {
+                        "x": 387,
+                        "y": 5,
+                        "width": 294,
+                        "height": 408
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCGrabBoobR",
+                    "RectInt": {
+                        "x": 387,
+                        "y": 423,
+                        "width": 262,
+                        "height": 346
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCGrabBoobL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 471,
+                        "width": 252,
+                        "height": 346
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCGrabNippleR",
+                    "RectInt": {
+                        "x": 659,
+                        "y": 423,
+                        "width": 218,
+                        "height": 351
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCGrabNippleL",
+                    "RectInt": {
+                        "x": 691,
+                        "y": 5,
+                        "width": 218,
+                        "height": 350
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCGrabThighL",
+                    "RectInt": {
+                        "x": 387,
+                        "y": 779,
+                        "width": 238,
+                        "height": 277
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCGrabThighR",
+                    "RectInt": {
+                        "x": 659,
+                        "y": 784,
+                        "width": 238,
+                        "height": 277
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "VagWetMCFinger",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 827,
+                        "width": 126,
+                        "height": 180
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

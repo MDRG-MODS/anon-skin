@@ -1,0 +1,506 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 10 - shower_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "MCbelly",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 365,
+                        "height": 591
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCVaginaHandMain_POV",
+                    "RectInt": {
+                        "x": 380,
+                        "y": 5,
+                        "width": 469,
+                        "height": 481
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCthigh",
+                    "RectInt": {
+                        "x": 380,
+                        "y": 496,
+                        "width": 320,
+                        "height": 563
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpankL_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 606,
+                        "width": 344,
+                        "height": 507
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpankR_POV",
+                    "RectInt": {
+                        "x": 710,
+                        "y": 496,
+                        "width": 344,
+                        "height": 505
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpreadL_POV2",
+                    "RectInt": {
+                        "x": 859,
+                        "y": 5,
+                        "width": 296,
+                        "height": 462
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpreadL_POV",
+                    "RectInt": {
+                        "x": 710,
+                        "y": 1011,
+                        "width": 296,
+                        "height": 462
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpreadR_POV",
+                    "RectInt": {
+                        "x": 1016,
+                        "y": 1011,
+                        "width": 298,
+                        "height": 458
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpreadR_POV2",
+                    "RectInt": {
+                        "x": 1064,
+                        "y": 496,
+                        "width": 298,
+                        "height": 458
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCPet_POV",
+                    "RectInt": {
+                        "x": 380,
+                        "y": 1069,
+                        "width": 316,
+                        "height": 262
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCAnusHandMain_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1123,
+                        "width": 232,
+                        "height": 329
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "DickSkin_POV",
+                    "RectInt": {
+                        "x": 1165,
+                        "y": 5,
+                        "width": 188,
+                        "height": 361
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCWaistGrabR_POV",
+                    "RectInt": {
+                        "x": 1324,
+                        "y": 1011,
+                        "width": 327,
+                        "height": 212
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCWaistGrabL_POV",
+                    "RectInt": {
+                        "x": 1324,
+                        "y": 1233,
+                        "width": 326,
+                        "height": 210
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCPalm",
+                    "RectInt": {
+                        "x": 380,
+                        "y": 1341,
+                        "width": 287,
+                        "height": 228
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCPalm2",
+                    "RectInt": {
+                        "x": 1363,
+                        "y": 5,
+                        "width": 287,
+                        "height": 228
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCAnusHandFinger_POV",
+                    "RectInt": {
+                        "x": 1363,
+                        "y": 243,
+                        "width": 252,
+                        "height": 238
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCAnusHandWrist_POV",
+                    "RectInt": {
+                        "x": 1372,
+                        "y": 496,
+                        "width": 210,
+                        "height": 237
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "DickSkin",
+                    "RectInt": {
+                        "x": 1372,
+                        "y": 743,
+                        "width": 184,
+                        "height": 142
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCVaginaHandInside_POV",
+                    "RectInt": {
+                        "x": 1324,
+                        "y": 1453,
+                        "width": 134,
+                        "height": 174
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "DickMain_POV",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1462,
+                        "width": 158,
+                        "height": 142
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpread_ThumbR_POV2",
+                    "RectInt": {
+                        "x": 173,
+                        "y": 1462,
+                        "width": 137,
+                        "height": 123
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpread_ThumbR_POV",
+                    "RectInt": {
+                        "x": 1468,
+                        "y": 1453,
+                        "width": 137,
+                        "height": 123
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpread_ThumbL_POV",
+                    "RectInt": {
+                        "x": 1016,
+                        "y": 1479,
+                        "width": 135,
+                        "height": 123
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCSpread_ThumbL_POV2",
+                    "RectInt": {
+                        "x": 1161,
+                        "y": 1479,
+                        "width": 135,
+                        "height": 123
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCWaistGrabL2_POV",
+                    "RectInt": {
+                        "x": 247,
+                        "y": 1123,
+                        "width": 122,
+                        "height": 98
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCWaistGrabR2_POV",
+                    "RectInt": {
+                        "x": 1165,
+                        "y": 376,
+                        "width": 123,
+                        "height": 96
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCThumb",
+                    "RectInt": {
+                        "x": 1372,
+                        "y": 895,
+                        "width": 124,
+                        "height": 78
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCThumb2",
+                    "RectInt": {
+                        "x": 710,
+                        "y": 1483,
+                        "width": 124,
+                        "height": 78
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCAnusHandThumb_POV",
+                    "RectInt": {
+                        "x": 247,
+                        "y": 1231,
+                        "width": 82,
+                        "height": 107
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "DickMain",
+                    "RectInt": {
+                        "x": 247,
+                        "y": 1348,
+                        "width": 105,
+                        "height": 84
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCMiddleFinger2",
+                    "RectInt": {
+                        "x": 844,
+                        "y": 1483,
+                        "width": 100,
+                        "height": 74
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCMiddleFinger",
+                    "RectInt": {
+                        "x": 1506,
+                        "y": 895,
+                        "width": 100,
+                        "height": 74
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCIndexFinger2",
+                    "RectInt": {
+                        "x": 844,
+                        "y": 1567,
+                        "width": 95,
+                        "height": 76
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCIndexFinger",
+                    "RectInt": {
+                        "x": 710,
+                        "y": 1571,
+                        "width": 95,
+                        "height": 76
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCRingFinger2",
+                    "RectInt": {
+                        "x": 380,
+                        "y": 1579,
+                        "width": 95,
+                        "height": 70
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCRingFinger",
+                    "RectInt": {
+                        "x": 485,
+                        "y": 1579,
+                        "width": 95,
+                        "height": 70
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCPinky2",
+                    "RectInt": {
+                        "x": 1566,
+                        "y": 743,
+                        "width": 78,
+                        "height": 68
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "MCPinky",
+                    "RectInt": {
+                        "x": 590,
+                        "y": 1579,
+                        "width": 78,
+                        "height": 68
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "HitAreaMC",
+                    "RectInt": {
+                        "x": 359,
+                        "y": 606,
+                        "width": 3,
+                        "height": 6
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "HitAreaMC_POV",
+                    "RectInt": {
+                        "x": 359,
+                        "y": 622,
+                        "width": 2,
+                        "height": 6
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "shower"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

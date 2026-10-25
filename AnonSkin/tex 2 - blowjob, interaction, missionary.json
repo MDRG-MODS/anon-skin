@@ -1,0 +1,41 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - blowjob, interaction, missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "ThumbSuck",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 180,
+                        "height": 213
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "ThumbSuckThumb",
+                    "RectInt": {
+                        "x": 195,
+                        "y": 5,
+                        "width": 56,
+                        "height": 56
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "blowjob",
+                "interaction",
+                "missionary",
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
